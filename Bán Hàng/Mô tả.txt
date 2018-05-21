@@ -1,0 +1,4 @@
+﻿CƠ SỞ DỬ LIỆU BÁN HÀNG SMARTPHONE
+1. Nguồn cơ sở dữ liệu lấy từ khoa phạm 
+Các framework lấy từ w3layout.
+2. Địa chỉ github 
